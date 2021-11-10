@@ -2,4 +2,3 @@
 * Java
 * JavaScript
 * Swift
-* Kotlin
