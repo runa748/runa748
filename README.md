@@ -2,5 +2,4 @@
 * Java
 * JavaScript
 * PHP
-* Ruby
-* Swift
+* Python
